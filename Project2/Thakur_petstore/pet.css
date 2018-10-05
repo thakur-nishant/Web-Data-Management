@@ -1,0 +1,40 @@
+body {
+	color: #666666;
+	background: #FFFFFF;
+	font-family: verdana, arial, sans-serif;
+}
+
+header {
+	background: #000033 
+}
+
+h1 {
+	line-height: 200%;
+	margin: 0px;
+}
+
+h2 {
+	color: #3399CC;
+	font-family: Georgia, serif;
+}
+
+img {
+	width: 100%;
+}
+
+nav {
+	font-weight: bold;
+	background: #90C7E3;
+}
+
+footer {
+	font-size: .70em;
+    font-style: italic;
+    text-align: center;
+}
+
+#wrapper {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
